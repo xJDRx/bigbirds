@@ -1,0 +1,16 @@
+{
+  "name": "bigbirds-taxidermy",
+  "version": "1.0.0",
+  "description": "Big Birds Taxidermy - Premium Waterfowl Taxidermy Website",
+  "scripts": {
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": [
+    "taxidermy",
+    "waterfowl",
+    "static-site"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
